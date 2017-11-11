@@ -16,12 +16,13 @@ function ternaryCheckCity(city) {
 }
 }
 
-const charm = `generous`;
+
+const tip = `generous`;
 
 let answer;
 
 
-switchOnCharmFromTip(charm) {
+switchOnCharmFromTip (tip) {
   case `generous`:
     answer = `Thank you so much.`;
     break;
