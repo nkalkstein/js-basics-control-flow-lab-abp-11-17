@@ -32,5 +32,3 @@ switchOnCharmFromTip(charm) {
     answer = `Bye.`;
     break;
 }
-}
-
