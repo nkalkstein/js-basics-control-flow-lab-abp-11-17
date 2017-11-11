@@ -16,7 +16,7 @@ function ternaryCheckCity(city) {
 }
 }
 
-switch (charm) {
+switchOnCharmFromTip(charm) {
   case "generous":
     answer = "Thank you so much.";
     break;
@@ -27,4 +27,3 @@ switch (charm) {
     answer = "Bye.";
     break;
 }
-
