@@ -22,7 +22,7 @@ const tip = "generous";
 
 let answer;
 
-function switchOnCharmFromTip(){
+function switchOnCharmFromTip(tip){
 switch (tip) {
   case "generous":
     answer = "Thank you so much.";
