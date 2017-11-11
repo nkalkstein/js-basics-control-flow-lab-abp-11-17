@@ -15,15 +15,3 @@ function ternaryCheckCity(city) {
         return "No go.";
 }
 }
-
-switchOnCharmFromTip(charm) {
-  case "generous":
-    answer = "Thank you so much.";
-    break;
-  case "not as generous":
-    answer = "Thank you.";
-    break;
-  default
-    answer = "Bye.";
-    break;
-}
