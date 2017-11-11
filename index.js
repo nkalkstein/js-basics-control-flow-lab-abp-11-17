@@ -32,3 +32,5 @@ switch (tip) {
     answer = "Bye.";
     break;
 }
+
+answer
