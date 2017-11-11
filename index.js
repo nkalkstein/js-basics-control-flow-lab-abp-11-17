@@ -33,4 +33,4 @@ switch (tip) {
     break;
 }
 
-answer
+answer;
