@@ -21,7 +21,7 @@ const tip = `generous`;
 
 let answer;
 
-switch (tip) {
+switchOnCharmFromTip (tip) {
   case `generous`:
     answer = "Thank you so much.";
     break;
