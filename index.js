@@ -18,7 +18,7 @@ function ternaryCheckCity(city) {
 
 
 
-const tip = `generous`;
+
 
 
 function switchOnCharmFromTip(){
