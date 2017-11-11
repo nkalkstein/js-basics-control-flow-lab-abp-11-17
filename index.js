@@ -28,10 +28,10 @@ switch (tip) {
     answer = "Thank you so much.";
     break;
   case `not as generous`:
-    answer = "Thank you.";
+    answer = `Thank you.`;
     break;
   default:
-    answer = "Bye.";
+    answer = `Bye.`;
     break;
 }
 }
