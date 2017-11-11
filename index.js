@@ -16,7 +16,7 @@ function ternaryCheckCity(city) {
 }
 }
 
-
+function switchOnCharmFromTip(){
 
 const tip = `generous`;
 
@@ -33,4 +33,4 @@ switch (tip) {
     answer = "Bye.";
     break;
 }
-
+}
